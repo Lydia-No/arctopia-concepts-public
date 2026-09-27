@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "ArcTopia — Public Research & Concepts"
+message: "Please cite this repository when referring to the public ArcTopia concepts."
+type: generic
+authors:
+  - family-names: "Thorstensen"
+    given-names: "Linda"
+    alias: "Lydia-No"
+    orcid: "https://orcid.org/0009-0008-1588-7309"
+year: 2026
+repository-code: "https://github.com/Lydia-No/arctopia-concepts-public"
+url: "https://arctopia.no"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  A deliberately limited public record of selected ArcTopia research concepts,
+  evidence status, and research directions concerning future capability,
+  decision-time verification and human control, transformation history,
+  provenance, recovery, and consequential change.
