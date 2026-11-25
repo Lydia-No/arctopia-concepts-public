@@ -1,6 +1,10 @@
 # What I Am Working On Now
 
-This page describes current public-facing ArcTopia workstreams. It intentionally excludes protected implementation details and confidential empirical material.
+This is a selected public account of work, not a complete list or ranking of ArcTopia's active research directions.
+
+Research and innovation develop through theoretical inquiry, scientific modelling, technology development and critical evaluation. These activities inform one another across disciplines. For a broader overview, see [Current Work](https://arctopia.no/work) and [Systems & Prototypes](https://arctopia.no/systems).
+
+The following sections retain the documented status of selected workstreams. They do not imply that these are the only active investigations. Protected implementation details and confidential empirical material are excluded.
 
 ## Decision continuity & revalidation
 
