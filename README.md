@@ -1,16 +1,20 @@
 # ArcTopia — Public Research & Concepts
 
-ArcTopia is an independent research programme by Linda Thorstensen concerned with consequential transformation, decision validity through change, future capability, and meaningful human control.
+ArcTopia (Adaptive Regenerative Continuity) is an independent interdisciplinary research programme originated, developed and directed by Linda Thorstensen. Its broader inquiry concerns how complex systems develop, interact and transform, including scientific discovery, emergence, adaptation, technological innovation and regeneration.
 
-The central question is:
+## Explore the research programme
+
+The website introduces six broad fields of inquiry: [foundational systems research](https://arctopia.no/research-foundations), [mathematics](https://arctopia.no/research-mathematics), [physics and natural systems](https://arctopia.no/research-natural-sciences), [technology and adaptive engineering](https://arctopia.no/research-engineering), [intelligence and human agency](https://arctopia.no/research-intelligence), and [ecology and societal systems](https://arctopia.no/research-regeneration). These are public entry points, not an internal research classification.
+
+This repository documents a selected part of that work: consequential transformation, decision validity through change, future capability and meaningful human control. One question within this public research selection is:
 
 > What remains possible after change?
 
-ArcTopia develops research, systems architecture, bounded technical demonstrations, and empirical tests for decisions whose evidential, authorization, or capability conditions can change over time.
+The research directions documented here include theoretical work, systems architecture, bounded technical demonstrations and empirical testing.
 
 This repository is a deliberately limited public record. It presents selected research concepts and evidence status without publishing protected implementation mechanisms.
 
-## Public research areas
+## Selected documented research directions
 
 ### Future Capability Preservation
 
@@ -65,7 +69,7 @@ Implementation feasibility, theoretical support, publication status, and empiric
 
 ## Repository guide
 
-- `PROJECT_MAP.md` — relationship among the public research areas
+- `PROJECT_MAP.md` — relationships among selected public research directions
 - `PUBLICATIONS.md` — verified public papers and active research status
 - `WORKING_ON_NOW.md` — current public-facing workstreams
 - `RESEARCH_AGENDA.md` — open public research questions

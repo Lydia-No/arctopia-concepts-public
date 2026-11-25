@@ -2,9 +2,9 @@
 
 ## Linda Thorstensen
 
-Linda Thorstensen is an independent researcher and systems architect working across AI-mediated decision systems, consequential transformation, verification, meaningful human control, future capability, and long-horizon institutional decision-making.
+Linda Thorstensen is an independent researcher and systems architect whose work spans complex systems, mathematical and scientific inquiry, technological development, intelligence, ecology and human systems.
 
-Her public research includes:
+Selected public research documented in this repository includes:
 
 - Future Capability Preservation;
 - decision-time verification and revalidation;
