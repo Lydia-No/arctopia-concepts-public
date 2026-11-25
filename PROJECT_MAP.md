@@ -1,27 +1,12 @@
 # Project Map
 
-ArcTopia connects several public research areas around one broader problem:
+This document is an editorial map of selected public research directions, not the internal structure, genealogy or hierarchy of the ArcTopia research programme.
+
+For a broader introduction, see [the research overview](https://arctopia.no/research). The selected concepts below concern one part of the programme. A shared question for this selection is:
 
 > How should consequential decisions remain valid, challengeable, and adaptable as conditions change?
 
-```text
-Future Capability Preservation
-What remains possible after transformation?
-                 │
-                 ├───────────────┐
-                 │               │
-                 ▼               ▼
-Decision-Time Verification   Transformation Memory,
-& Human Control              Provenance & Recovery
-Can authority still          Can materially different
-be exercised in practice?    pathways remain distinguishable?
-                 │               │
-                 └───────┬───────┘
-                         ▼
-                      ArcTopia
-     Research, systems architecture, demonstrations,
-          and empirical tests across these questions
-```
+The three documented directions below are listed alongside one another. Their order does not establish theoretical priority, dependency or the origin of the wider programme.
 
 ## Future Capability Preservation
 
@@ -43,7 +28,7 @@ Public questions include pathway information, reconstructability, provenance, re
 
 ## Cross-cutting work
 
-Across the programme, current public-facing work also examines:
+Within this selected public research record, work also examines:
 
 - decision continuity and revalidation;
 - trajectory-sensitive evaluation;
