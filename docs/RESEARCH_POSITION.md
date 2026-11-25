@@ -2,7 +2,14 @@
 
 ArcTopia sits at the intersection of several established public fields. This repository does not claim ownership over those fields or over their established concepts.
 
-Relevant bodies of public work include:
+The broader programme engages with mathematical and scientific inquiry, complex systems, technology and regeneration. Relevant bodies of public work include:
+
+- geometry, algebra and dynamical systems;
+- scientific modelling, observation and experimental methods;
+- physical processes, self-organisation and multiscale dynamics;
+- engineering design, adaptive systems and technological innovation;
+- cognition, learning and interpretation;
+- ecology, resource systems and regeneration;
 
 - institutional legitimacy and accountable governance;
 - provenance, audit trails, and event-sourced systems;
@@ -14,7 +21,7 @@ Relevant bodies of public work include:
 
 ## Public contribution framing
 
-At a conceptual level, ArcTopia asks how these concerns can be understood together:
+Within the selected documented research directions of this repository, questions include:
 
 1. How did a system reach its present state?
 2. What evidence and authority supported each material transition?
@@ -26,6 +33,8 @@ At a conceptual level, ArcTopia asks how these concerns can be understood togeth
 ## Prior-art discipline
 
 This repository should not describe broad public concepts as proprietary inventions. Terms such as provenance, event history, explainability, reversibility, resilience, optionality, simulation, and human oversight have substantial prior art.
+
+The positioning described here is limited to the selected public research material in this repository, not the whole ArcTopia programme.
 
 Any potentially protectable ArcTopia invention must therefore be defined privately through its specific technical combination, implementation, architecture, constraints, or operational effect—not through ownership claims over general ideas.
 
