@@ -2,6 +2,19 @@
 
 This agenda identifies public questions guiding ArcTopia-related research. It is intentionally non-enabling and does not disclose private implementation methods.
 
+This agenda covers selected publicly documented directions, rather than the full ArcTopia research programme or a ranking of research priorities.
+
+## Broader questions across disciplines
+
+- How does complexity emerge through interactions?
+- What can different mathematical representations reveal?
+- How can observation distinguish competing explanations?
+- How do new technological possibilities arise?
+- How do learning, interpretation and action interact?
+- How can systems renew and regenerate?
+
+These questions provide public points of entry. The following sections record particular documented investigations rather than defining the overall agenda.
+
 ## 1. Future Capability Preservation
 
 - Which capabilities allow people, institutions, and systems to adapt when conditions change?
